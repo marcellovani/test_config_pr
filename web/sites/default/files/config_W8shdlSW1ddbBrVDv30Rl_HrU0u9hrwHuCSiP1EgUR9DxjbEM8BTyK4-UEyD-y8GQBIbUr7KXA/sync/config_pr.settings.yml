@@ -1,8 +1,8 @@
 repo:
   controller: config_pr.repo_controller.github
   repo_url: ''
-  repo_user: marcelovani
-  repo_name: temp
+  repo_user: marcellovani
+  repo_name: test_config_pr
 commit_messages:
   update: 'Updated config @config_name.yml'
   create: 'Created config @config_name.yml'
